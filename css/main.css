@@ -1,0 +1,53 @@
+body {
+    background-image: url("https://imgur.com/EfJiapV.jpg");
+    /*https://imgur.com/ElNZSsr.jpg*/
+    /*https://imgur.com/EfJiapV.jpg*/
+    background-size: 100%;
+    font-family: "Verdana";
+    font-weight: bold;
+}
+
+.filler {
+  height: 54px;
+  width: 100%;
+}
+
+.mainbox {
+  border: 0px solid black;
+}
+.topbox {
+  height: 400px;
+  width: 400px;
+}
+table {
+  margin: 0;
+  padding: 0;
+  border: 0px solid black;
+}
+
+td, th {
+  text-align: center;
+
+}
+
+.timeslot:hover {
+  border: 1px solid black;
+}
+
+.form-group {
+  margin-bottom: 15px ;
+}
+
+td {
+  padding:0px ;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+.rightalign{
+  position: absolute;
+  right: 0px;
+}
